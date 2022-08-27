@@ -22,6 +22,7 @@ on:
   push:
     branches:
       - master
+      - kezhenxu94-patch-1
   schedule:
     - cron: '0 18 * * *'
 
