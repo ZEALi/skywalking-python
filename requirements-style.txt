@@ -1,7 +1,7 @@
-flake8==5.0.0                  # Plain flake8
+flake8==4.0.1           # Plain flake8
 
 ## AUTO FIXERS
-#isort                   # import sorter
+#isort                  # import sorter
 unify                   # unify quotes
 flynt                   # fix f-strings
 
